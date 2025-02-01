@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Ramana93
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Ramanaguru
+- 👀 I’m interested in Development
 # 💫 About Me:
 <br>🌱 I’m currently learning Full Stack Development<br>
 
